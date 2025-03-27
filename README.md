@@ -138,8 +138,8 @@ python test.py
 
 ## 训练图（准确率与损失值）
 
-![准确率和损失值图](./image/Accuracy&Loss.png)  
+![准确率和损失值图](https://cdn.jsdelivr.net/gh//Nuyoahwjl/Cats_Vs_Dogs/image/Accuracy&Loss.png)  
 
 ## 预测结果图
 
-![预测结果图](./image/Prediction.png)
+![预测结果图](https://cdn.jsdelivr.net/gh//Nuyoahwjl/Cats_Vs_Dogs/image/Prediction.png)
