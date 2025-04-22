@@ -139,6 +139,7 @@ python test.py
 ## 训练图（准确率与损失值）
 > important
 > 由于每50步记录一次数据且没有做平滑处理，此图不太美观
+
 ![准确率和损失值图](https://cdn.jsdelivr.net/gh//Nuyoahwjl/Cats_Vs_Dogs/image/Accuracy&Loss.png)  
 
 ## 预测结果图
